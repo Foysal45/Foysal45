@@ -10,6 +10,7 @@
 - 📫 Reach me at: jbc.foysal@gmail.com
 - 😄 Pronouns: He/Him
 ⚡ Fun fact: I genuinely love solving problems through code
+
 👨‍💻 About Me
 I’m a Lead Software Engineer with deep experience architecting and delivering large-scale POS ecosystem platforms across mobile and web. I specialize in building end-to-end systems—from mobile applications (Android: Java/Kotlin, iOS) to cross-platform web solutions and scalable backend services using Java (Spring & Spring Boot), PHP, and Kotlin.
 
