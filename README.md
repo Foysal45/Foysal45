@@ -9,9 +9,10 @@
 - 💬 Ask me about: Mobile development, Web development, and tech career guidance
 - 📫 Reach me at: jbc.foysal@gmail.com
 - 😄 Pronouns: He/Him
-⚡ Fun fact: I genuinely love solving problems through code
+- ⚡ Fun fact: I genuinely love solving problems through code
 
-👨‍💻 About Me
+👨‍💻About Me:
+
 I’m a Lead Software Engineer with deep experience architecting and delivering large-scale POS ecosystem platforms across mobile and web. I specialize in building end-to-end systems—from mobile applications (Android: Java/Kotlin, iOS) to cross-platform web solutions and scalable backend services using Java (Spring & Spring Boot), PHP, and Kotlin.
 
 I take full ownership of complex, business-critical systems, driving decisions around architecture, performance, reliability, and long-term maintainability. My role often involves unblocking teams, resolving high-impact production issues, improving development workflows, and ensuring engineering solutions align with product and business goals.
